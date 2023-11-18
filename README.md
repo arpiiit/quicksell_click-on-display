@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -8,7 +9,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.\![Screenshot (3)](https://github.com/arpiiit/quicksell_click-on-display/assets/77626050/deb0ae3e-0c51-4a47-94c0-8e59e3df2ddd)
+![Screenshot (2)](https://github.com/arpiiit/quicksell_click-on-display/assets/77626050/5e8f45f9-9ae7-4e55-9820-ec6092f0d128)
+![Screenshot (4)](https://github.com/arpiiit/quicksell_click-on-display/assets/77626050/b9b5a843-d25e-4204-ad39-b702daff2317)
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
